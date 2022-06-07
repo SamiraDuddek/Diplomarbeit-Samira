@@ -1,5 +1,5 @@
-https://zuribuech.webflow.io/ -O ~/Downloads/ZURIBUECH -%v +*jpg +*svg +*gif +*woff2 +*js +*css +*ico +*png +*jpeg +*otf
-File generated automatically on Tue, 07 Jun 2022 09:41:49, do NOT edit
+https://zuribuech.webflow.io/ -R15 -c1 -O /Users/samiraduddek/Downloads/ZURIBUECH -%v +*jpg +*svg +*gif +*woff2 +*js +*css +*ico +*png +*jpeg +*otf
+File generated automatically on Tue, 07 Jun 2022 11:27:19, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
