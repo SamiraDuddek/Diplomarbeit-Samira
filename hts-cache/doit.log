@@ -1,0 +1,8 @@
+https://zuribuech.webflow.io/ -O ~/Downloads/ZURIBUECH -%v +*jpg +*svg +*gif +*woff2 +*js +*css +*ico +*png +*jpeg +*otf
+File generated automatically on Tue, 07 Jun 2022 09:41:49, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

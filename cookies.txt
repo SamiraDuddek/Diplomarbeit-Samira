@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+webflow.com	TRUE	/	FALSE	1999999999	wf_exp_uniqueId	e2e80542-3f6d-4160-a7cd-6ef8fe5638e7
+webflow.com	TRUE	/	FALSE	1999999999	wfsession	bEjUSpYqLawCd1Gr6q4UsQ.WtS8sUYdJXGpaPngJM62yTqUk9dYPXSTpU0_za9eWZ27takUETyIPuaZ29el76txWb4qk65lN8gYujiyi8U0Ng.1655192580324.86400000.mY4c2pZvjiHHH03aI8_6TZ7B0jwAy1IJvd17jyjLsrE
+webflow.com	TRUE	/	FALSE	1999999999	wf_logout	1654587784301
+webflow.com	TRUE	/	FALSE	1999999999	samesite	none
+
