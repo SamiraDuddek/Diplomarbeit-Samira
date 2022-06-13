@@ -1,4 +1,4 @@
-/* Generated on: Mon Jun 13 2022 09:55:23 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jun 13 2022 11:10:53 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -93,7 +93,7 @@
   border-bottom-color: #3898ec;
   border-left-color: #3898ec;
   border-right-color: #3898ec;
-  background-image: url(../../../d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg);
+  background-image: url(../../static/custom-checkbox-checkmark.589d534424.svg);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3797,35 +3797,35 @@ blockquote {
 }
 @font-face {
   font-family: 'Restora';
-  src: url('../../../uploads-ssl.webflow.com/6284d9ca87255a31517f32ec/6284d9ca87255a01777f3307_Nasir Udin - RestoraExtraLight.otf') format('opentype');
+  src: url('../6284d9ca87255a01777f3307_Nasir Udin - RestoraExtraLight.otf') format('opentype');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gambarino';
-  src: url('../../../uploads-ssl.webflow.com/6284d9ca87255a31517f32ec/6286a250031b5b78ace1f48c_Gambarino-Regular.otf') format('opentype');
+  src: url('../6286a250031b5b78ace1f48c_Gambarino-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Excon';
-  src: url('../../../uploads-ssl.webflow.com/6284d9ca87255a31517f32ec/6288cb9366773e0f6b6940a9_Excon-Regular.otf') format('opentype');
+  src: url('../6288cb9366773e0f6b6940a9_Excon-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Excon';
-  src: url('../../../uploads-ssl.webflow.com/6284d9ca87255a31517f32ec/6288cb932cc6d540d42aba4a_Excon-Light.otf') format('opentype');
+  src: url('../6288cb932cc6d540d42aba4a_Excon-Light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Excon';
-  src: url('../../../uploads-ssl.webflow.com/6284d9ca87255a31517f32ec/6288cb935549af411696be5a_Excon-Medium.otf') format('opentype');
+  src: url('../6288cb935549af411696be5a_Excon-Medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
