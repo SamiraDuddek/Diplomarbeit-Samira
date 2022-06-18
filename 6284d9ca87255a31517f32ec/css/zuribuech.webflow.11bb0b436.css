@@ -1,4 +1,4 @@
-/* Generated on: Fri Jun 17 2022 14:55:48 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jun 18 2022 08:20:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1195,6 +1195,10 @@ blockquote {
   align-items: flex-start;
 }
 
+.ort-text.links {
+  margin-right: 2em;
+}
+
 .ort-text-right {
   margin-left: 3em;
 }
@@ -2099,7 +2103,7 @@ blockquote {
 }
 
 .ber-text-3 {
-  margin-top: 5em;
+  margin-top: 3em;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -3125,6 +3129,7 @@ blockquote {
 
   .ort-text {
     margin-top: 2em;
+    margin-right: 0em;
   }
 
   .sticky-nav-2 {
